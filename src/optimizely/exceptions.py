@@ -1,0 +1,3 @@
+class SiteNotFoundException(Exception):
+    pass
+
